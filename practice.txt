@@ -2,3 +2,4 @@ practice.txt
 ookinakurinokinositade
 Asitayasumida
 
+プルリクエスト練習用の内容
